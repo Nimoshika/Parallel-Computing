@@ -1,0 +1,256 @@
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 1      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0276
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 2      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0085
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 4      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0054
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 8      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0128
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 12      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0416
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 24      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0830
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 32      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.1208
+sizeofrealmatrix : 8 sizeofleafmatrix: 1 threads: 48      
+Matrix Size = 256,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.1472
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 1      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0112
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 2      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0071
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 4      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0046
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 8      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0281
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 12      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0383
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 24      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0757
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 32      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.1033
+sizeofrealmatrix : 8 sizeofleafmatrix: 3 threads: 48      
+Matrix Size = 256,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.1294
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 1      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0069
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 2      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0080
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 4      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0045
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 8      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0134
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 12      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0400
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 24      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0770
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 32      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0867
+sizeofrealmatrix : 8 sizeofleafmatrix: 5 threads: 48      
+Matrix Size = 256,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.1374
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 1      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0097
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 2      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0064
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 4      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0051
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 8      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0284
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 12      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0399
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 24      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0770
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 32      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.1172
+sizeofrealmatrix : 8 sizeofleafmatrix: 7 threads: 48      
+Matrix Size = 256,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.2126
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 1      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0863
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 2      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0444
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 4      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0251
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 8      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0580
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 12      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.0694
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 24      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.1384
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 32      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.1404
+sizeofrealmatrix : 9 sizeofleafmatrix: 1 threads: 48      
+Matrix Size = 512,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.2728
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 1      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0879
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 2      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0420
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 4      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0258
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 8      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0469
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 12      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.0806
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 24      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.1016
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 32      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.1121
+sizeofrealmatrix : 9 sizeofleafmatrix: 3 threads: 48      
+Matrix Size = 512,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.2548
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 1      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0874
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 2      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0437
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 4      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0269
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 8      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0389
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 12      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0553
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 24      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.0784
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 32      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.1357
+sizeofrealmatrix : 9 sizeofleafmatrix: 5 threads: 48      
+Matrix Size = 512,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.2206
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 1      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0923
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 2      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0467
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 4      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0338
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 8      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0574
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 12      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0658
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 24      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.0994
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 32      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.1345
+sizeofrealmatrix : 9 sizeofleafmatrix: 7 threads: 48      
+Matrix Size = 512,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.1938
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 1      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   1.3876
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 2      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.5975
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 4      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.2892
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 8      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.2947
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 12      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.5985
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 24      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.5117
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 32      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.5299
+sizeofrealmatrix : 10 sizeofleafmatrix: 1 threads: 48      
+Matrix Size = 1024,  Leaf Matrix Size = 2, Error = 0, Execution Time =   0.5660
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 1      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   1.3563
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 2      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.6046
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 4      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.2495
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 8      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.3084
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 12      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.3330
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 24      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.5396
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 32      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.6637
+sizeofrealmatrix : 10 sizeofleafmatrix: 3 threads: 48      
+Matrix Size = 1024,  Leaf Matrix Size = 8, Error = 0, Execution Time =   0.4982
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 1      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   1.4441
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 2      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.5568
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 4      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.2837
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 8      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.2675
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 12      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.4854
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 24      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.4512
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 32      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.3978
+sizeofrealmatrix : 10 sizeofleafmatrix: 5 threads: 48      
+Matrix Size = 1024,  Leaf Matrix Size = 32, Error = 0, Execution Time =   0.7561
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 1      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   1.3783
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 2      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.5925
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 4      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.2307
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 8      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.4065
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 12      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.4237
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 24      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.4321
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 32      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.5598
+sizeofrealmatrix : 10 sizeofleafmatrix: 7 threads: 48      
+Matrix Size = 1024,  Leaf Matrix Size = 128, Error = 0, Execution Time =   0.7846
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 1      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =  16.8230
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 2      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =   7.0756
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 4      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =   2.9897
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 8      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =   2.6989
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 12      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =   3.2054
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 24      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =   3.8584
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 32      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =   3.3390
+sizeofrealmatrix : 11 sizeofleafmatrix: 1 threads: 48      
+Matrix Size = 2048,  Leaf Matrix Size = 2, Error = 0, Execution Time =   4.0730
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 1      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =  15.8576
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 2      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =   6.8372
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 4      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =   2.6777
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 8      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =   2.5177
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 12      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =   2.9438
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 24      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =   3.1576
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 32      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =   3.2923
+sizeofrealmatrix : 11 sizeofleafmatrix: 3 threads: 48      
+Matrix Size = 2048,  Leaf Matrix Size = 8, Error = 0, Execution Time =   3.8451
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 1      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =  16.1765
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 2      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =   7.4029
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 4      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =   3.2213
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 8      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =   3.3714
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 12      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =   3.1841
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 24      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =   3.6856
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 32      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =   3.7161
+sizeofrealmatrix : 11 sizeofleafmatrix: 5 threads: 48      
+Matrix Size = 2048,  Leaf Matrix Size = 32, Error = 0, Execution Time =   4.6499
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 1      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =  16.6926
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 2      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =   7.2171
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 4      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =   3.0058
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 8      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =   2.9910
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 12      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =   3.2150
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 24      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =   2.7530
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 32      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =   3.2446
+sizeofrealmatrix : 11 sizeofleafmatrix: 7 threads: 48      
+Matrix Size = 2048,  Leaf Matrix Size = 128, Error = 0, Execution Time =   3.5527
